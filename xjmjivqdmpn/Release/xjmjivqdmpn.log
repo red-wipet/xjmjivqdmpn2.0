@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (xjmjivqdmpn.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  xjmjivqdmpn-safety.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 56 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  xjmjivqdmpn.vcxproj -> C:\Users\mrsuperbuddy\Desktop\idk how to spell.peaceful\Release\xjmjivqdmpn2.0.peaceful.exe
